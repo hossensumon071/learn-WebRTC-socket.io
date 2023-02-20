@@ -33,3 +33,24 @@
      RTP = Real Time Protocol
      STUN = Session Traversal Utilities for NAT
      NAT = Network adress translator
+
+
+4. How WebRTC works --> Same Network 
+        . Direct P2P Socket Connection 
+             (jodi same network e thake tahole P2P Connection possible)
+        . Relayed Media
+            (ei P2P er maddome media er adhan pordhan hobe ekjon r ekjon information media shob kichu share kora jabe)
+
+
+5. How WebRTC works --> Different Network
+         . STUN SERVER Connection 
+            (different network jokon 2jon user thakche tokon first connection established korar jonno alada ekta server proyjon hocche sei server ta ke bolchi amra stun server )
+
+            STUN SERVER er maddome 2 different network er bitor connection estblished hobe 
+
+
+            connection estblished howar por direct amader ke data adan prodhan korte hobe but sei khtere direct data trnasmit home sei jonno amader ke onno r ekti server er proyjon hobe TURN SERVER
+
+           .TURN SERVER Relayed Media
+
+        
