@@ -1,0 +1,35 @@
+1. What is WebRTC?
+     . webRTC is a open-source project
+     . Provide API for real-time communication
+
+2. Uses?
+     . Iot Devices, Robotics
+     . Financial application
+     . Communication application
+     . Online education
+     . Telemedicine
+     . Collaboration solutions 
+     . Gaming and entertainment
+
+3. How WebRTC Comes? 
+     . In May 2010, Google bought Global IP Solutions or GIPS, a VoIP and videoconferencing software company that had developed many components
+     required for RTC, such as codecs and echo cancellation techniques.
+
+     . In May 2011, Google released an open-source project for browser-based realt-time communication known as WebRTC
+
+     . February 2013 WebRTC milestones include the first cross-browser video call
+
+     . February 2014 first cross-browser data transfer
+
+     . July 2014 Google Hangouts starting WebRTC
+
+
+3.New terms ?
+     
+     WebRTC = Web Real-Time Communication
+     P2P = Peer to Peer
+     SDP = Session Description Protocol
+     ICE = Interactivity Connection Establishment
+     RTP = Real Time Protocol
+     STUN = Session Traversal Utilities for NAT
+     NAT = Network adress translator
