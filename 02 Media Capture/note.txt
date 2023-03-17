@@ -1,0 +1,14 @@
+media capture bolte bujai microphone theke audio ke capture kora ba camera theke video ke capture kora karon amra webrtc diye ki korba video call ba audio call dibo directly 
+
+Media Capture --> Device Permission and Get Stream
+    - er jonno amder ke first constraints property crete kore nite hobe er bitor bolet acutally ki ki capture korte cahi 
+
+       const constraints = {'video': true, 'audio': true}
+
+  navigator.mediaDevices.getUserMedia(constraints).then().catch()
+
+
+  .Streaming media is video or audio content
+  .Sent in compressed form over the internet and played immediatly 
+  . Rather than being saved to the hard drive 
+  . With streaming media, a user does not have to wait to download a file to play it 
